@@ -1,2 +1,1 @@
-# hardandheavy.githab.io
-My summary
+Моё резюме (https://hardandheavy.github.io/)

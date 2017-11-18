@@ -1,1 +1,1 @@
-Моё резюме (https://hardandheavy.github.io/)
+[Моё резюме](https://hardandheavy.github.io/)
